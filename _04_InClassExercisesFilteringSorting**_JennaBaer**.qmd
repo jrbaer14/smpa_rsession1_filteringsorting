@@ -44,7 +44,7 @@ impeach
 *For the questions below, write your R code to return the requested records in the code chunk provided.*
 
 1)  The column "for_impeachment" indicates whether the member has publicly called for an impeachment inquiry. Filter to return only the ones where the answer is NO. 
-I remembered from the in class activity to use the filter function and apply it to the whole data set. After setting that up I filtered the for impeachment column because that is the variable of interest.
+I remembered from the in class activity to use the filter function and apply it to the whole data set. After setting that up I filtered the for impeachment column because that is the variable of interest here.
 
 ```{r}
 
